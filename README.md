@@ -17,7 +17,7 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 
 
 
-![Calculator App Screenshot]("C:\Users\PC\Pictures\Screenshots\Screenshot.png.png")
+![Calculator App Screenshot]("C:\Users\PC\Pictures\Screenshots\Screenshots.png")
 
 ## Getting Started
 
