@@ -21,7 +21,7 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 
 ## Getting Started
 
-To run the calculator app locally:
+To run the calculator app locally follow the steps:
 
 1. Clone this repository to your local machine:
    ```bash
